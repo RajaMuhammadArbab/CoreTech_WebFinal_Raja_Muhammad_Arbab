@@ -1,5 +1,3 @@
-<img width="554" height="899" alt="services" src="https://github.com/user-attachments/assets/11183ebf-da27-4a9c-9661-f3e9c4ef4f21" /># CoreTech Innovations - Official Website
-
 ##  Project Overview
 
 CoreTech Innovations is a professional technology company website built with modern web technologies. The website features a clean, minimal design with smooth animations and full responsiveness across all devices. The project demonstrates front-end development skills including responsive design, interactive elements, and modern UI/UX principles.
@@ -114,3 +112,4 @@ coretech-website/
 │  
 
 └── README.md   
+
