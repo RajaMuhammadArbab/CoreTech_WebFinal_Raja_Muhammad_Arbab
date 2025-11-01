@@ -1,4 +1,4 @@
-# CoreTech Innovations - Official Website
+<img width="554" height="899" alt="services" src="https://github.com/user-attachments/assets/11183ebf-da27-4a9c-9661-f3e9c4ef4f21" /># CoreTech Innovations - Official Website
 
 ##  Project Overview
 
@@ -67,20 +67,19 @@ CoreTech Innovations is a professional technology company website built with mod
 ##  Screenshots of Pages
 
 ### Home Page
-
+<img width="572" height="747" alt="index" src="https://github.com/user-attachments/assets/b84a94c4-6666-436d-a27d-ecfee2ce1ea7" />
 
 ### About Page
-
+<img width="490" height="886" alt="about" src="https://github.com/user-attachments/assets/e6d97ccd-f5ce-42e9-8fe1-442635d03a71" />
 
 ### Services Page
-
+<img width="554" height="899" alt="services" src="https://github.com/user-attachments/assets/0a34f06d-dccb-4b55-81e5-a0af1a91ecb3" />
 
 ### Portfolio Page
-
+<img width="571" height="914" alt="portfolio" src="https://github.com/user-attachments/assets/e8b3b2bf-85da-45d1-b1bf-7f8486b9bf80" />
 
 ### Contact Page
-
-
+<img width="452" height="862" alt="contact" src="https://github.com/user-attachments/assets/55934538-4e33-4fd8-806f-43099eee3131" />
 
 ##  Setup Instructions
 
@@ -113,4 +112,5 @@ coretech-website/
 │   ├── main.js
 │   ├── form-validation.js
 │  
+
 └── README.md   
